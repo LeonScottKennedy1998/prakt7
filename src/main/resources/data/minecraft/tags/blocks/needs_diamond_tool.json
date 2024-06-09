@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "wardenbettermod:wardenite_ore_block",
+    "wardenbettermod:deepslate_wardenite_ore_block",
+    "wardenbettermod:wardenite_block"
+  ]
+}
+

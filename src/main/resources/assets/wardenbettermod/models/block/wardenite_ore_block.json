@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wardenbettermod:block/wardenite_ore_block"
+  }
+}

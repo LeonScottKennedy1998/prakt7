@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "www",
+        "www",
+        "www"
+    ],
+    "key": {
+        "w": {
+            "item": "wardenbettermod:warden_ingot"
+        }
+    },
+    "result": {
+        "item": "wardenbettermod:wardenite_block",
+        "count": 1
+    }
+}

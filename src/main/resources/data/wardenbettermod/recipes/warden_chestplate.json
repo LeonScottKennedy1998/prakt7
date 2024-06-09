@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:netherite_chestplate"
+    },
+    "addition": {
+        "item": "wardenbettermod:warden_ingot"
+    },
+    "result": {
+        "item": "wardenbettermod:warden_chestplate"
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "item.wardenbettermod.warden_ingot": "Варденит",
+  "item.wardenbettermod.warden_pickaxe": "Варденитовая кирка",
+  "itemGroup.Warden Better Mod Tab": "Панель Warden Better Mod",
+  "block.wardenbettermod.wardenite_block": "Блок Варденита",
+  "block.wardenbettermod.wardenite_ore_block": "Варденитовая руда",
+  "item.wardenbettermod.warden_chestplate": "Варденитовый нагрудник",
+  "item.wardenbettermod.warden_leggings": "Варденитовые поножи",
+  "item.wardenbettermod.warden_sword": "Варденитовый меч",
+  "block.wardenbettermod.warden_power_block": "Блок Силы",
+  "item.wardenbettermod.warden_nugget": "Кусочек варденитовой руды",
+  "block.wardenbettermod.deepslate_wardenite_ore_block": "Глубинная варденитовая руда"
+}
+

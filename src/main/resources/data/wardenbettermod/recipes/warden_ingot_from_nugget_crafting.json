@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nnn",
+        "nnn",
+        "nnn"
+    ],
+    "key": {
+        "n": {
+            "item": "wardenbettermod:warden_nugget"
+        }
+    },
+    "result": {
+        "item": "wardenbettermod:warden_ingot",
+        "count": 1
+    }
+}
